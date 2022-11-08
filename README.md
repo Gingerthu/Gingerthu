@@ -1,4 +1,4 @@
-- 👋 Hoi, I’m @Gingerthu
+- 👋 Hoi, I’m Ginger
 
 <!---
 Gingerthu/Gingerthu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
